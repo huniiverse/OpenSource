@@ -1,0 +1,35 @@
+week02
+
+-git command(git 명령어) 
+
+git init
+
+git status
+
+git add 
+
+git config --global user.email "you@example.com"
+
+git config --global user.name "your name"
+
+git commit -m "v0"
+
+git log : 현재 확인하기
+
+git checkout hashcode
+
+'git checkout -' (해쉬코드)
+
+git branch -M main => master branch -> main branch 로 변경
+
+git remote add origin https://github.com/ksy007oo/test.git 
+
+git remote -v
+
+git push => 업로드하는 명령어
+
+git push -u origin main
+
+git clone https://github.com/ksy007oo/test.git
+--------------------------------------------------------------
+-linux command(리눅스 명령어) : ls, ls -al, pwd, cd .git, cd .. , echo "blahblah" >> README.md, cat README.md(텍스트가 콘솔에 출력 됨.)
